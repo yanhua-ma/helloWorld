@@ -1,0 +1,24 @@
+
+Esquid:S1481")Remove this unused "unit" local variable.(ëé” 8ÏŠåÄ¬+
+\squid:S2259"@NullPointerException might be thrown as 'alist' is nullable here(¦ÿ¢Ÿ8˜ðæÄ¬+
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(çž¡ïüÿÿÿÿ
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(Ò—•ç
+r
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(çÎ¶É
+Dsquid:S1481"(Remove this unused "url" local variable.(š¯‰Ï8–ÃäÄ¬+
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(ŒµöÔ
+Tsquid:S1854"8Remove this useless assignment to local variable "unit".(ëé” 8ÏŠåÄ¬+
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(Ü¹Ñ‰ÿÿÿÿÿ
+Ssquid:S1854"7Remove this useless assignment to local variable "url".(š¯‰Ï8–ÃäÄ¬+
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(½ì­Îøÿÿÿÿ
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(²›‡ÿÿÿÿÿ8ÏŠåÄ¬+
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(åÂ ¼
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(”úÿÿÿÿ

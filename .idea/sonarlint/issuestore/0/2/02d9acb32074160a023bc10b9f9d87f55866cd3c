@@ -1,0 +1,13 @@
+
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(ôÙ±ìøÿÿÿÿ
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(øÉ«‘
+msquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(Þå¶Àøÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¸õÎùøÿÿÿÿ
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(û‹‘Ûùÿÿÿÿ
+msquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(§«Û–úÿÿÿÿ
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(®ýáëûÿÿÿÿ
+Hsquid:UselessParenthesesCheck"!Remove those useless parentheses.(óÓõ
